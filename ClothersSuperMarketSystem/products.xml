@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+  <clothes id="A01">
+    <style>连衣裙</style>
+    <brand>DIOR</brand>
+    <color>浅蓝色</color>
+    <size>L</size>
+    <num>0</num>
+    <price>7500.0</price>
+    <description>迪奥浅蓝色针织连衣裙</description>
+  </clothes>
+  <clothes id="A02">
+    <style>沙滩裙</style>
+    <brand>CHANEL</brand>
+    <color>花色 </color>
+    <size>L</size>
+    <num>6</num>
+    <price>13600.0</price>
+    <description>香奈儿高腰拼色沙滩裙</description>
+  </clothes>
+  <clothes id="A03">
+    <style>吊带裙</style>
+    <brand>COACH</brand>
+    <color>浅紫色</color>
+    <size>02</size>
+    <num>6</num>
+    <price>2250.0</price>
+    <description>蔻驰吊带裙</description>
+  </clothes>
+  <clothes id="A04">
+    <style>蕾丝裙</style>
+    <brand>COACH</brand>
+    <color>粉红色</color>
+    <size>02</size>
+    <num>6</num>
+    <price>1150.0</price>
+    <description>蔻驰蕾丝裙</description>
+  </clothes>
+  <clothes id="A05">
+    <style>连衣裙</style>
+    <brand>GUCCI</brand>
+    <color>黑色</color>
+    <size>36</size>
+    <num>6</num>
+    <price>23445.0</price>
+    <description>古驰蕾丝条纹真丝连衣裙</description>
+  </clothes>
+  <clothes id="A05">
+    <style>长裙</style>
+    <brand>GUCCI</brand>
+    <color>绿色</color>
+    <size>36</size>
+    <num>6</num>
+    <price>19580.0</price>
+    <description>古驰侧开扣复古格子纹羊毛长裙</description>
+  </clothes>
+  <clothes id="A06">
+    <style>连衣裙</style>
+    <brand>GUCCI</brand>
+    <color>浅蓝色</color>
+    <size>38</size>
+    <num>6</num>
+    <price>23987.0</price>
+    <description>古驰玫瑰花蕾府绸裙装裙子连衣裙</description>
+  </clothes>
+  <clothes id="A07">
+    <style>花瓣裙</style>
+    <brand>PRADA</brand>
+    <color>黑色</color>
+    <size>38</size>
+    <num>999</num>
+    <price>8395.0</price>
+    <description>普拉达优雅黑色真丝花瓣裙子</description>
+  </clothes>
+  <clothes id="A08">
+    <style>连衣裙</style>
+    <brand>PRADA</brand>
+    <color>其他</color>
+    <size>38</size>
+    <num>888</num>
+    <price>8699.0</price>
+    <description>普拉达褶裥连衣裙 </description>
+  </clothes>
+  <clothes id="A09">
+    <style>半身裙 </style>
+    <brand>MIUMIU</brand>
+    <color>蓝色</color>
+    <size>38</size>
+    <num>9</num>
+    <price>5557.0</price>
+    <description>缪缪春夏新款女士蓝色棉质亮片修饰半身裙 </description>
+  </clothes>
+  <clothes id="A10">
+    <style>连衣裙</style>
+    <brand>PRADA</brand>
+    <color>黑粉色</color>
+    <size>38</size>
+    <num>9</num>
+    <price>8193.0</price>
+    <description>普达拉黑粉真丝多层次拼接内衣外穿式透视百褶无袖束腰连衣裙 </description>
+  </clothes>
+</list>
